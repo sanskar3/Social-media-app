@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056083787516",
+    "firebase_url": "https://socialapp-b89b8.firebaseio.com",
+    "project_id": "socialapp-b89b8",
+    "storage_bucket": "socialapp-b89b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056083787516:android:6de8f12bf8b1d4fc42e179",
+        "android_client_info": {
+          "package_name": "com.sanskar.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056083787516-7a22017uncvq6n3ln2fbi9lfge52p7mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCenGoiD1eFcXlSoLGBH62wn6arWy6uKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056083787516-7a22017uncvq6n3ln2fbi9lfge52p7mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
